@@ -1,0 +1,6 @@
+{
+    "active": true,
+    "name": "qwen/qwen-2.5-72b-instruct",
+    "url": "https://openrouter.ai/api/v1/chat/completions",
+    "token": ""
+}

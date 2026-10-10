@@ -1,0 +1,6 @@
+{
+    "active": true,
+    "name": "openai/gpt-oss-120b",
+    "url": "https://api.groq.com/openai/v1/chat/completions",
+    "token": ""
+}

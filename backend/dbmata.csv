@@ -1,0 +1,93 @@
+,Table,Table Description,Column,Column Description
+0,Addresses,,Address_ID,Address Id
+1,Addresses,,Line_1,Line 1
+2,Addresses,,Line_2,Line 2
+3,Addresses,,City_Town,City Town
+4,Addresses,,State_County,State County
+5,Addresses,,Other_Details,Other Details
+6,Bookings,,Booking_ID,Booking Id
+7,Bookings,,Customer_ID,Customer Id
+8,Bookings,,Workshop_Group_ID,Workshop Group Id
+9,Bookings,,Status_Code,Status Code
+10,Bookings,,Store_ID,Store Id
+11,Bookings,,Order_Date,Order Date
+12,Bookings,,Planned_Delivery_Date,Planned Delivery Date
+13,Bookings,,Actual_Delivery_Date,Actual Delivery Date
+14,Bookings,,Other_Order_Details,Other Order Details
+15,Bookings_Services,,Order_ID,Order Id
+16,Bookings_Services,,Product_ID,Product Id
+17,Clients,,Client_ID,Client Id
+18,Clients,,Address_ID,Address Id
+19,Clients,,Customer_Email_Address,Customer Email Address
+20,Clients,,Customer_Name,Customer Name
+21,Clients,,Customer_Phone,Customer Phone
+22,Clients,,Other_Details,Other Details
+23,Customers,,Customer_ID,Customer Id
+24,Customers,,Address_ID,Address Id
+25,Customers,,Customer_Name,Customer Name
+26,Customers,,Customer_Phone,Customer Phone
+27,Customers,,Customer_Email_Address,Customer Email Address
+28,Customers,,Other_Details,Other Details
+29,Drama_Workshop_Groups,,Workshop_Group_ID,Workshop Group Id
+30,Drama_Workshop_Groups,,Address_ID,Address Id
+31,Drama_Workshop_Groups,,Currency_Code,Currency Code
+32,Drama_Workshop_Groups,,Marketing_Region_Code,Marketing Region Code
+33,Drama_Workshop_Groups,,Store_Name,Store Name
+34,Drama_Workshop_Groups,,Store_Phone,Store Phone
+35,Drama_Workshop_Groups,,Store_Email_Address,Store Email Address
+36,Drama_Workshop_Groups,,Other_Details,Other Details
+37,Invoice_Items,,Invoice_Item_ID,Invoice Item Id
+38,Invoice_Items,,Invoice_ID,Invoice Id
+39,Invoice_Items,,Order_ID,Order Id
+40,Invoice_Items,,Order_Item_ID,Order Item Id
+41,Invoice_Items,,Product_ID,Product Id
+42,Invoice_Items,,Order_Quantity,Order Quantity
+43,Invoice_Items,,Other_Item_Details,Other Item Details
+44,Invoices,,Invoice_ID,Invoice Id
+45,Invoices,,Order_ID,Order Id
+46,Invoices,,payment_method_code,Payment Method Code
+47,Invoices,,Product_ID,Product Id
+48,Invoices,,Order_Quantity,Order Quantity
+49,Invoices,,Other_Item_Details,Other Item Details
+50,Invoices,,Order_Item_ID,Order Item Id
+51,Marketing_Regions,,Marketing_Region_Code,Marketing Region Code
+52,Marketing_Regions,,Marketing_Region_Name,Marketing Region Name
+53,Marketing_Regions,,Marketing_Region_Descriptrion,Marketing Region Descriptrion
+54,Marketing_Regions,,Other_Details,Other Details
+55,Order_Items,,Order_Item_ID,Order Item Id
+56,Order_Items,,Order_ID,Order Id
+57,Order_Items,,Product_ID,Product Id
+58,Order_Items,,Order_Quantity,Order Quantity
+59,Order_Items,,Other_Item_Details,Other Item Details
+60,Performers,,Performer_ID,Performer Id
+61,Performers,,Address_ID,Address Id
+62,Performers,,Customer_Name,Customer Name
+63,Performers,,Customer_Phone,Customer Phone
+64,Performers,,Customer_Email_Address,Customer Email Address
+65,Performers,,Other_Details,Other Details
+66,Performers_in_Bookings,,Order_ID,Order Id
+67,Performers_in_Bookings,,Performer_ID,Performer Id
+68,Products,,Product_ID,Product Id
+69,Products,,Product_Name,Product Name
+70,Products,,Product_Price,Product Price
+71,Products,,Product_Description,Product Description
+72,Products,,Other_Product_Service_Details,Other Product Service Details
+73,Ref_Payment_Methods,,payment_method_code,Payment Method Code
+74,Ref_Payment_Methods,,payment_method_description,Payment Method Description
+75,Ref_Service_Types,,Service_Type_Code,Service Type Code
+76,Ref_Service_Types,,Parent_Service_Type_Code,Parent Service Type Code
+77,Ref_Service_Types,,Service_Type_Description,Service Type Description
+78,Services,,Service_ID,Service Id
+79,Services,,Service_Type_Code,Service Type Code
+80,Services,,Workshop_Group_ID,Workshop Group Id
+81,Services,,Product_Description,Product Description
+82,Services,,Product_Name,Product Name
+83,Services,,Product_Price,Product Price
+84,Services,,Other_Product_Service_Details,Other Product Service Details
+85,Stores,,Store_ID,Store Id
+86,Stores,,Address_ID,Address Id
+87,Stores,,Marketing_Region_Code,Marketing Region Code
+88,Stores,,Store_Name,Store Name
+89,Stores,,Store_Phone,Store Phone
+90,Stores,,Store_Email_Address,Store Email Address
+91,Stores,,Other_Details,Other Details

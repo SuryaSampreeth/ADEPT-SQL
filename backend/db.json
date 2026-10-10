@@ -1,0 +1,6 @@
+{
+    "option": "Turtorial DB",
+    "sqlite_path": "./sqlite/cre_Drama_Workshop_Groups.sqlite",
+    "db_name": "cre_Drama_Workshop_Groups.sqlite",
+    "conn": true
+}

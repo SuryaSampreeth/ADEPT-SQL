@@ -1,0 +1,37 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Streamlit secrets (never commit these!)
+.streamlit/secrets.toml
+
+# Backend runtime config (stores live API tokens entered by user)
+backend/llm.json
+backend/llm_b.json
+backend/emb.json
+backend/db.json
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local model files (large, not needed on cloud)
+m3e-base/
